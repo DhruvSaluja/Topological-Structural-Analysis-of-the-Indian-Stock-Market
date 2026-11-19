@@ -1,0 +1,9 @@
+networkx
+matplotlib
+yfinance
+pandas
+numpy
+os
+scipy
+seaborn
+yfinance
